@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Users/Administrator/Documents/NetBeansProjects/jms/src/properties.java</file>
+            <file>file:/D:/Users/Administrator/Documents/NetBeansProjects/jms/src/jms/jmsconsumer.java</file>
+            <file>file:/D:/Users/Administrator/Documents/NetBeansProjects/jms/src/jms/MyQueueMessageListener.java</file>
+            <file>file:/D:/Users/Administrator/Documents/NetBeansProjects/jms/src/jms/Jms.java</file>
+            <file>file:/D:/Users/Administrator/Documents/NetBeansProjects/jms/src/jms/SimpleApp.java</file>
+            <file>file:/D:/Users/Administrator/Documents/NetBeansProjects/jms/src/jms/jmsproducer.java</file>
+            <file>file:/D:/Users/Administrator/Documents/NetBeansProjects/jms/src/jms/jndi.properties</file>
+        </group>
+    </open-files>
+</project-private>
